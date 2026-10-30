@@ -1,0 +1,29 @@
+{
+ "name": "Study Nook Student Planner",
+ "short_name": "Study Nook",
+ "description": "All-in-one student planner: timetable, assignments, exams, GPA, focus timer, flashcards and more.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#fbf8f1",
+ "theme_color": "#fbf8f1",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
